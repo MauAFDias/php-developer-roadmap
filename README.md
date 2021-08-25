@@ -8,8 +8,8 @@ The repository is created when working on the following YouTube video [PHP Devel
 
 ## Table of Contents
 
-1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
-1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
+&#10003;1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
+&#10003;1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 2. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
 3. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
@@ -34,20 +34,20 @@ The repository is created when working on the following YouTube video [PHP Devel
 ### How Internet & Websites works
 | Resource Name                         |Duration| Resource                                                |
 |---------------------------------------|--------|---------------------------------------------------------|
-| How does the INTERNET work?           | 9m     | https://youtu.be/x3c1ih2NJEg                            |
-| How The Web Works - The Big Picture   | 12m    | https://youtu.be/hJHvdBlSxug                            |
+&#10003;| How does the INTERNET work?           | 9m     | https://youtu.be/x3c1ih2NJEg                            |
+&#10003;| How The Web Works - The Big Picture   | 12m    | https://youtu.be/hJHvdBlSxug                            |
 
 ### Browser/Server request flow, HTTP Protocol, Status codes
 | Resource Name                   |Duration| Resource                                                |
 |---------------------------------|--------|---------------------------------------------------------|
-| HTTP Crash Course & Exploration | 38m    | https://youtu.be/iYM2zFP3Zn0                            |
-| MDN HTTP Tutorial               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
-| Wikipedia Status Codes          |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
+&#10003;| HTTP Crash Course & Exploration | 38m    | https://youtu.be/iYM2zFP3Zn0                            |
+&#10003;| MDN HTTP Tutorial               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
+&#10003;| Wikipedia Status Codes          |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
 
 ### Basics of HTML/CSS
 | Resource Name                                 |Duration| Resource                                     |
 |-----------------------------------------------|--------|----------------------------------------------|
-| HTML Tutorial for Beginners                   | 1h     | https://youtu.be/qz0aGYrrlhU                 |
+&#10003;| HTML Tutorial for Beginners                   | 1h     | https://youtu.be/qz0aGYrrlhU                 |
 | HTML Crash Course For Absolute Beginners      | 1h     | https://youtu.be/UB1O30fR-EE                 |
 | HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
 | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
