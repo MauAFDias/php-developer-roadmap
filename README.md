@@ -49,8 +49,8 @@ The repository is created when working on the following YouTube video [PHP Devel
 |----|-----------------------------------------------|--------|----------------------------------------------|
 |&#10003;| HTML Tutorial for Beginners                   | 1h     | https://youtu.be/qz0aGYrrlhU                 |
 |&#10003;| HTML Crash Course For Absolute Beginners      | 1h     | https://youtu.be/UB1O30fR-EE                 |
-|&#10003; | HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
-| | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
+|&#10003;| HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
+|&#10003;| CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
 | | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
 
 ### Basics of JavaScript
